@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anshu Gupta</h1>
 <h3 align="center">A passionate frontend developer and Student from India</h3>
-<h3 align="center"><a href="https://portfolio-ag-silk.vercel.app/">Anshu Gupta Portfolio</a></h3>
+<h3 align="center"><a href="http://anshugupta.me/">Anshu Gupta Portfolio</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshu370&label=Profile%20views&color=0e75b6&style=flat" alt="anshu370" /> </p>
 
