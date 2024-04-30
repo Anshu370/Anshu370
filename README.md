@@ -103,14 +103,14 @@ Eager to contribute to the ever-evolving landscape of computer science, I am ope
 <br>
 
 <!-- Skill Set (App Development)  -->
-<div align="center">
+<!-- <div align="center">
     <h3><b>App Development </b></h3>
     <code><a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a></code>&nbsp;
     <code><a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a></code>&nbsp;
     <code><a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a></code>&nbsp;
     <code><a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a></code>&nbsp;
 </div>
-    <br>
+    <br> -->
   
 
 
@@ -170,22 +170,22 @@ About Me = {
 
 <p align="center">
   <a href="https://github.com/myselfshivams">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=myselfshivams&theme=radical&border=7F3FBF&background=0D1117" alt="Shivam's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anshu370&theme=radical&border=11f772&background=0D1117" alt="Anshu's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/myselfshivams">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=myselfshivams&theme=radical" alt="Shivam's GitHub Contribution"/>
+  <a href="https://github.com/Anshu370">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anshu370&theme=radical&border=11f772" alt="Anshu's GitHub Contribution"/>
   </a>
 </p>
 <hr>
 <div align="center">
 <a> 
-    <a href="https://github.com/myselfshivams"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=myselfshivams&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/Anshu370"><img alt="Al Anshu's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Anshu370&show_icons=true&count_private=true&theme=react&border_color=11f772&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
 
   <hr><div align="center">
-  <a href="https://github.com/myselfshivams"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=myselfshivams&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/Anshu370"><img alt="Al Anshu's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Anshu370&langs_count=8&layout=compact&theme=react&border_color=11f772&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br>
 </a>
 
@@ -196,7 +196,7 @@ About Me = {
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=myselfshivams&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anshu370&bg_color=161b22&color=11f772&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
