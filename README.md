@@ -11,15 +11,17 @@
 <!----- Read-me Typing ------------------------------------------------------------------------------------------------------------------------------>
 <!-------------------------------------------------------------------------------------------------------------------------------------------------->
   <div align="center">
-        <a href="https://github.com/Anshu370"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=25&pause=500&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Shivam%2C;Web+Developer%2C;App+Developer%2C;And++Programming+Enthusiast..." alt="Typing SVG" /></a>
-    </div>
 
+   
+
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=1000&color=11F772&random=false&width=435&lines=Hi++%F0%9F%A5%85%2C++I+am+Anshu+Gupta%2C;A+Web+Developer+%F0%9F%95%B8%EF%B8%8F;Problem+Inventor+%F0%9F%94%A5;Cyber+Security+Enthusiast+%F0%9F%92%BB)](https://git.io/typing-svg)
+ </div>
 <!-------------------------------------------------------------------------------------------------------------------------------------------------->
 <!----- Intro -------------------------------------------------------------------------------------------------------------------------------------->
 <!-------------------------------------------------------------------------------------------------------------------------------------------------->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="www.linkedin.com/in/anshugupta370">Anshu Gupta</a></b>
+                <b><a target="" href="https://www.linkedin.com/in/anshugupta370" >Anshu Gupta</a></b>
         </samp>
   
 </h3>
@@ -27,7 +29,7 @@
 <!-- Search  -->
 <p align="center"> 
   <samp>
-    <a href="www.linkedin.com/in/anshugupta370">「 Connect with me 」</a>
+    <a href="https://www.linkedin.com/in/anshugupta370">「 Connect with me 」</a>
     <br>
     「 I am Web Dev and Cyber Enthusiast 」
     <br>
@@ -36,9 +38,6 @@
 </p>
 
 <div>
-
-  <h3 align="center">Cyber Enthusiast</h3>
-
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
  <hr>
 <!---------------------------------------------------------------------------------------------------------------------------------------------------------->
@@ -48,10 +47,9 @@
 <div align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmyselfshivams%2Fmyselfshiavms&label=VISITORS&labelColor=%23000&countColor=%230A0209" />
     <br><br>
-  <a href="https://dev.to/itshivam"><img src="https://img.shields.io/badge/dev.to-d5d5d5?style=for-the-badge&logo=devdotto&logoColor=0A0209" alt="profile of Dev.to with username itshivam" /></a>
-  <a href="https://www.linkedin.com/in/itshivam/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username itshivam" /></a>
-  <a href="mailto:founder@echotratech.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of Shivam i.e.   founder@echotratech.com" /></a>
-
+  <a href="https://dev.to/anshugupta"><img src="https://img.shields.io/badge/dev.to-d5d5d5?style=for-the-badge&logo=devdotto&logoColor=0A0209" alt="profile of Dev.to with username anshugupta" /></a>
+  <a href="https://www.linkedin.com/in/anshugupta370"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username anshugupta370" /></a>
+  <a href="mailto:2k22.cscys.2212695@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of Anshu i.e. 2k22.cscys.2212695@gmail.com" /></a>
 </div>
 <hr>
 
