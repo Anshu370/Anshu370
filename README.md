@@ -29,7 +29,7 @@
   <samp>
     <a href="www.linkedin.com/in/anshugupta370">「 Connect with me 」</a>
     <br>
-    「 I am Web Dev and Cyber Anaconda 」
+    「 I am Web Dev and Cyber Enthusiast 」
     <br>
     
   </samp>
@@ -135,14 +135,7 @@ Eager to contribute to the ever-evolving landscape of computer science, I am ope
 </div>
 <br>
 
-<!-- Skill Set (Cloud)  -->
-<div align="center">
-    <h3><b>Cloud</b></h3>
-    <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" title="aws" alt="aws"  height="40"/></a></code>&nbsp;
-    <code><a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a></code>&nbsp;
-      <code><a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a></code>&nbsp;&nbsp;
-</div>
-<br>
+
 
 <!-- Skill Set (Tools)  -->
 <div align="center">
@@ -155,15 +148,7 @@ Eager to contribute to the ever-evolving landscape of computer science, I am ope
 </div>
 <br>
 
-<div align="center">
-    <h3><b>Operating Systems</b></h3>
-    <code><a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" title="android" alt="android" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://www.apple.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg?style=white" alt="MacOS" width="40" height="40"/> </a></code>&nbsp;
-    <code><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a></code>&nbsp;
-    <br><br>
-</div>
-    <br><br>
+
 </div>
 </div>
 <hr>
@@ -237,7 +222,7 @@ About Me = {
 
 ```text
 🌞 Morning                34 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
-🌆 Daytime                108 commits         ████████░░░░░░░░░░░░░░░░░   30.42 % 
+🌆 Daytime                108 commits         ██████████████████░░░░░░░   30.42 % 
 🌃 Evening                194 commits         ██████████████░░░░░░░░░░░   54.65 % 
 🌙 Night                  19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
 ```
@@ -245,7 +230,7 @@ About Me = {
 
 ```text
 Monday                   35 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
-Tuesday                  40 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
+Tuesday                  40 commits          ████████████████████░░░░░   11.27 % 
 Wednesday                26 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
 Thursday                 66 commits          █████░░░░░░░░░░░░░░░░░░░░   18.59 % 
 Friday                   47 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
