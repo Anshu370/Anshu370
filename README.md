@@ -309,6 +309,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 <!--- Shivam's Snake Animation Contribution Graph ----------------------------------------------------------------------------------------------------------------------------->
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------->
 
-![snake gif](https://github.com/myselfshivams/Anshu370/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/Anshu370/Anshu370/blob/output/github-contribution-grid-snake.svg)
+
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
