@@ -29,7 +29,7 @@
   <samp>
     <a href="www.linkedin.com/in/anshugupta370">「 Connect with me 」</a>
     <br>
-    「 I am iOS and Android Developer & full stack Web Developer 」
+    「 I am Web Dev and Cyber Anaconda 」
     <br>
     
   </samp>
@@ -37,7 +37,7 @@
 
 <div>
 
-  <h3 align="center">Relentless debugger 🔧📖 Perpetual evolver, questing for pixel-perfect perfection!📚 💻</h3>
+  <h3 align="center">Cyber Enthusiast</h3>
 
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
  <hr>
