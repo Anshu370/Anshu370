@@ -100,18 +100,7 @@ Eager to contribute to the ever-evolving landscape of computer science, I am ope
     <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" title="JavaScript" alt="javascript" width="40" height="40"/></a></code>&nbsp;
   
 </div>
-<br>
-
-<!-- Skill Set (App Development)  -->
-<!-- <div align="center">
-    <h3><b>App Development </b></h3>
-    <code><a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a></code>&nbsp;
-    <code><a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a></code>&nbsp;
-    <code><a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a></code>&nbsp;
-    <code><a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a></code>&nbsp;
-</div>
-    <br> -->
-  
+<br> 
 
 
 <!-- Skill Set (L&A)  -->
@@ -264,27 +253,20 @@ myfirstapp               18 mins             ███░░░░░░░░�
 eShiel Assesment         12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
 
 💻 Operating System: 
-Mac                      2 hrs 39 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 39 mins       ████████████░░░░░░░░░░░░░   50.00 %
+Kali                     2 hrs 39 mins       ████████████░░░░░░░░░░░░░   50.00 % 
 ```
 
 **I Mostly Code in HTML** 
 
 ```text
-HTML                     13 repos            ██████████░░░░░░░░░░░░░░░   39.39 % 
-CSS                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
-TypeScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
-SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+Python                     13 repos            ██████████░░░░░░░░░░░░░░░   39.39 %
+HTML                       4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.12 %  
+CSS                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+SCSS                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
 ```
 
 
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/myselfshivams/myselfshivams/main/assets/bar_graph.png)
-
-
- Last Updated on 17/04/2024 18:39:28 UTC
 
 
 
