@@ -1,5 +1,5 @@
 <!-------------------------------------------------------------------------------------------------------------------------------------------------->
-<!----- Shivam's Icon ------------------------------------------------------------------------------------------------------------------------------>
+<!----- AG's Icon ------------------------------------------------------------------------------------------------------------------------------>
 <!-------------------------------------------------------------------------------------------------------------------------------------------------->
 
   <div>
@@ -85,7 +85,6 @@ Eager to contribute to the ever-evolving landscape of computer science, I am ope
     <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" title="Python" alt="python"  height="40"/></a></code>&nbsp;&nbsp;
     <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" title="Python" alt="python"  height="40"/></a></code>&nbsp;&nbsp;
   </a> 
-
   <code><a href="#" target="_blank"><img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" title="Go" alt="Go"  height="40"/></a></code>&nbsp;&nbsp;
 </div>
 
